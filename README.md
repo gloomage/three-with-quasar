@@ -55,6 +55,6 @@ Se você gostaria de contribuir para o projeto, siga os passos abaixo:
 2. Crie uma nova branch (git checkout -b minha-feature).
 3. Faça as alterações e faça commit (git commit -am 'Adicionando nova feature').
 4. Envie para o repositório (git push origin minha-feature).
-5. Abra um Pull Request para revisão
+5. Abra um Pull Request para revisão.
 
    
